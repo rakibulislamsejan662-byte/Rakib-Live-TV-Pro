@@ -1,0 +1,12 @@
+#EXTM3U
+
+# ===== FIFA World Cup 2026 =====
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsDJIU8VqMX2zm-AA69AJQX73sbSRO2dWvB5qUttlEBzobXrzF8Txd-0e7&s=10" group-title="FIFA World Cup 2026",🏆 Ivory Coast vs Norway
+http://dhpto-hls.hf.space/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAQXbIhY6j9a90ncb1E9agWI1kFaxpnKeyL_pQCWU8Pyi_bH9VibPCXw&s=10" group-title="FIFA World Cup 2026",🏆 France vs Sweden
+https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMdPoEu64BLrh_EJjpUne2ZEK5occNW6IyV7Ob0z2aLEu82gSncExZsw&s=10" group-title="FIFA World Cup 2026",🏆 Mexico vs Ecuador
+https://qwertyuiopasdfghjkl.page.gd/out/v1/60e7608404004b1186261497b404630b/index.m3u8
