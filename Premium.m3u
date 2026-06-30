@@ -10,3 +10,59 @@ https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMdPoEu64BLrh_EJjpUne2ZEK5occNW6IyV7Ob0z2aLEu82gSncExZsw&s=10" group-title="FIFA World Cup 2026",🏆 Mexico vs Ecuador
 https://qwertyuiopasdfghjkl.page.gd/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="fifa2026" tvg-name="FIFA World Cup 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FIFA World Cup 2026
+https://proxy.hridoytv.workers.dev/fifa2026.m3u8
+
+#EXTINF:-1 tvg-id="fifa2026-1" tvg-name="FIFA Server 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FIFA Server 1
+https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn3.zohanayaan.com:1686/hls/deportesplus9.m3u8?md5=K-hks6RY1gaUjKeDBIlTVQ&expires=1782836653
+
+#EXTINF:-1 tvg-id="fifa2026-2" tvg-name="iScreen" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",iScreen
+https://proxy.hridoytv.workers.dev/iscreen.m3u8
+
+#EXTINF:-1 tvg-id="fifa2026-3" tvg-name="Bioscope" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Bioscope
+https://proxy.hridoytv.workers.dev/bioscopelive.m3u8
+
+#EXTINF:-1 tvg-id="fifa2026-4" tvg-name="Somoy TV FIFA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Somoy TV FIFA
+https://proxy.hridoytv.workers.dev/somoytvfifa.m3u8
+
+#EXTINF:-1 tvg-id="fifa2026-5" tvg-name="CCTV-5" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",CCTV-5
+https://proxy.hridoytv.workers.dev/cctv5.m3u8
+
+#EXTINF:-1 tvg-id="bein-fr" tvg-name="beIN Sports France" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",beIN Sports France
+https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn2.zohanayaan.com:1686/hls/bein1france.m3u8?md5=HNw9cAXh-tsZeIuD7fksLw&expires=1782836632
+
+#EXTINF:-1 tvg-id="telemundo" tvg-name="Telemundo USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Telemundo USA
+https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn5.zohanayaan.com:1686/hls/telmunda.m3u8?md5=sGDDYako22PukiIVwJw7Pg&expires=1782836621
+
+#EXTINF:-1 tvg-id="foxsports2" tvg-name="FOX Sports 2 USA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FOX Sports 2 USA
+https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn10.zohanayaan.com:1686/hls/foxsp2usa.m3u8?md5=yt9d4b1PqJGQz1dPXwot0g&expires=1782836632
+
+#EXTINF:-1 tvg-id="toffee" tvg-name="Toffee Live" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",Toffee Live
+https://proxy.hridoytv.workers.dev/toffeelive.m3u8
+
+#EXTINF:-1 tvg-id="ptv" tvg-name="PTV Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",PTV Sports
+https://cz-pli2.hossainhridoy.workers.dev/proxy/https://cdn9.zohanayaan.com:1686/hls/ptvpk.m3u8?md5=lKSssSh1dV80f3At_5YV1A&expires=1782836591
+
+#EXTINF:-1 tvg-id="fifa-channel-1" tvg-name="FIFA WC Channel 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",FIFA WC Channel 1
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782844807~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclA6H8keVh3yHxpJEuKxsWVZPtHwILmhKK1RPKLjG0n_QikzhzyRNhQ_4PV65IsIFwQU2YN38zJKTGMb1QW-UxwI
+
+#EXTINF:-1 tvg-id="worldcup-a1" tvg-name="World Cup A1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup A1
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+
+#EXTINF:-1 tvg-id="worldcup-a2" tvg-name="World Cup A2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup A2
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="worldcup-a3" tvg-name="World Cup A3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="FIFA World Cup 2026",World Cup A3
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="server-1" tvg-name="Server 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Servers",Server 1
+http://dhpto-hls.hf.space/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-1 tvg-id="server-2" tvg-name="Server 2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Servers",Server 2
+https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
+
+#EXTINF:-1 tvg-id="server-3" tvg-name="Server 3" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/17/2026_FIFA_World_Cup_emblem.svg/250px-2026_FIFA_World_Cup_emblem.svg.png" group-title="Servers",Server 3
+https://qwertyuiopasdfghjkl.page.gd/out/v1/60e7608404004b1186261497b404630b/index.m3u8
