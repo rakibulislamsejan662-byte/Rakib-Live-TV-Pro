@@ -11,6 +11,249 @@ https://binge.oolcaykarael.workers.dev/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAQXbIhY6j9a90ncb1E9agWI1kFaxpnKeyL_pQCWU8Pyi_bH9VibPCXw&s=10" group-title="FIFA World Cup 2026",🏆 France vs Sweden
 https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CINEMANIA.png" group-title="ASIA | TAMIL",TAMIL| CINEMANIA 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1438226&extension=ts&play_token=CfLH6EZZAP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AFLIX.png" group-title="ASIA | TAMIL",TAMIL| &FLIX FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526436&extension=ts&play_token=HA3In0VJyD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/7S-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| 7S MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281866&extension=ts&play_token=JCb4rLokRX
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/7S-MUSIC.png" group-title="ASIA | TAMIL",TAMIL| 7S MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526441&extension=ts&play_token=xfO8FdAFwq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ADHTIYA.png" group-title="ASIA | TAMIL",TAMIL| ADHTIYA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155892&extension=ts&play_token=WK8v4zLJFq
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ANGEL.png" group-title="ASIA | TAMIL",TAMIL| ANGEL TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155922&extension=ts&play_token=7guDFq1IZ3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ANGEL.png" group-title="ASIA | TAMIL",TAMIL| ANGEL TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526455&extension=ts&play_token=e4BBQzS2N1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ANIMAL-PLANET.png" group-title="ASIA | TAMIL",TAMIL| ANIMAL PLANET FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281983&extension=ts&play_token=6k2aoAB4yB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ANIMAL-PLANET.png" group-title="ASIA | TAMIL",TAMIL| ANIMAL PLANET HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282679&extension=ts&play_token=DkkH0OyOMW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ATHAVAN.png" group-title="ASIA | TAMIL",TAMIL| ATHAVAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526457&extension=ts&play_token=N5XloVmkH1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BBC-EARTH.png" group-title="ASIA | TAMIL",TAMIL| BBC EARTH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281848&extension=ts&play_token=hTHnkxeSpJ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CARTOON-NETWORK.png" group-title="ASIA | TAMIL",TAMIL| CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526437&extension=ts&play_token=a3qiRBh1J3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHUTTI.png" group-title="ASIA | TAMIL",TAMIL| CHUTTI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155896&extension=ts&play_token=747rguUc6j
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/CINEMA-TAMIL.jpg" group-title="ASIA | TAMIL",TAMIL| CINEMA TAMIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097662&extension=ts&play_token=B6HPdEptiS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/colors.png" group-title="ASIA | TAMIL",TAMIL| COLORS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155888&extension=ts&play_token=L55mkAesJo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS.png" group-title="ASIA | TAMIL",TAMIL| COLORS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526452&extension=ts&play_token=fsJTMwh22b
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/COLORS-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| COLORS TAMIL SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526453&extension=ts&play_token=jzDOWSaJ7Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/D-TAMIL.png" group-title="ASIA | TAMIL",TAMIL| D TAMIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526438&extension=ts&play_token=IDblRAFI5M
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DD-PODHIGAI.png" group-title="ASIA | TAMIL",TAMIL| DD PODHIGAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155911&extension=ts&play_token=xPAo1HPmDl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DD-SAPTAGIRI.png" group-title="ASIA | TAMIL",TAMIL| DD SAPTAGIRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155894&extension=ts&play_token=B5TLOwjv7l
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DHEERAN.png" group-title="ASIA | TAMIL",TAMIL| DHEERAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281874&extension=ts&play_token=UiOLweC8Ap
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/discovery.png" group-title="ASIA | TAMIL",TAMIL| DISCOVERY FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281850&extension=ts&play_token=MOwof8qjsx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/laz.Discovery_kids.png" group-title="ASIA | TAMIL",TAMIL| DISCOVERY KIDS TAMIL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155897&extension=ts&play_token=v8GD4BcyjM
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISCOVERY-WORLD.png" group-title="ASIA | TAMIL",TAMIL| DISCOVERY WORLD FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155879&extension=ts&play_token=EubnUA0Pv1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/DISNEY-JUNIOR.png" group-title="ASIA | TAMIL",TAMIL| DISNEY JUNIOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526427&extension=ts&play_token=FUjpx0ghbW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/FOX-LIFE.png" group-title="ASIA | TAMIL",TAMIL| FOX LIFE FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155887&extension=ts&play_token=S8MwYfIrnx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/GOOD-TIMES.png" group-title="ASIA | TAMIL",TAMIL| GOOD TIMES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526461&extension=ts&play_token=x5yF67vOd4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HINDU-DHARMAM.png" group-title="ASIA | TAMIL",TAMIL| HINDU DHARMAM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281875&extension=ts&play_token=YqPmkwGUNt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HISTORY-TV-18.png" group-title="ASIA | TAMIL",TAMIL| HISTORY TV 18 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155886&extension=ts&play_token=yl0e0IdA95
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HOLLYWOOD-LOCAL.png" group-title="ASIA | TAMIL",TAMIL| HOLLYWOOD LOCAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097661&extension=ts&play_token=tGciXBnDUF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/HUNGAMADAMAALHD.png" group-title="ASIA | TAMIL",TAMIL| HUNGAMA KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097664&extension=ts&play_token=EWAssJanti
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/IBC-24.png" group-title="ASIA | TAMIL",TAMIL| IBC 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281876&extension=ts&play_token=qTycqFM8iG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/IBC-ISAI.png" group-title="ASIA | TAMIL",TAMIL| IBC ISAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526434&extension=ts&play_token=tTkJPhIyHT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ISAI-ARUVI.png" group-title="ASIA | TAMIL",TAMIL| ISAI ARUVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526459&extension=ts&play_token=XLEfvP6Dkz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ISAIARUVI.png" group-title="ASIA | TAMIL",TAMIL| ISAIARUVI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526463&extension=ts&play_token=6HCwSpn2z7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/J-MOVIES.png" group-title="ASIA | TAMIL",TAMIL| J MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155921&extension=ts&play_token=PVhvfQf6Zz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-MAX.png" group-title="ASIA | TAMIL",TAMIL| JAYA MAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155893&extension=ts&play_token=HYIgNEshSB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-PLUS.png" group-title="ASIA | TAMIL",TAMIL| JAYA PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155891&extension=ts&play_token=7REALg33TG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-TV.png" group-title="ASIA | TAMIL",TAMIL| JAYA TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155878&extension=ts&play_token=vtzTlAz8nz
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/JAYA-TV.png" group-title="ASIA | TAMIL",TAMIL| JAYA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526446&extension=ts&play_token=CUwivT8zO1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/KALAIGNAR.png" group-title="ASIA | TAMIL",TAMIL| KALAIGNAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1526426&extension=ts&play_token=amTc2ZYMOl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ktv.png" group-title="ASIA | TAMIL",TAMIL| KTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=281859&extension=ts&play_token=2JXzQ7aPGA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ktv.png" group-title="ASIA | TAMIL",TAMIL| KTV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155882&extension=ts&play_token=i0XpTKDKvh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MADHA.png" group-title="ASIA | TAMIL",TAMIL| MADHA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155929&extension=ts&play_token=wkPfi5FNWw
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MADHIMUGHAM.png" group-title="ASIA | TAMIL",TAMIL| MADHIMUGHAM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155904&extension=ts&play_token=uVOFqHvDl0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MAKKAL.png" group-title="ASIA | TAMIL",TAMIL| MAKKAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155907&extension=ts&play_token=9xQinexgES
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MALAI-MURASU-SEITHIKAL.png" group-title="ASIA | TAMIL",TAMIL| MALAI MURASU SEITHIKAL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097673&extension=ts&play_token=VLD1kq0AkD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/MALAR.png" group-title="ASIA | TAMIL",TAMIL| MALAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097667&extension=ts&play_token=NCBzuipGZA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MEGA-24.png" group-title="ASIA | TAMIL",TAMIL| MEGA 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
 #EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1438227.png" group-title="ASIA | INDIA",HINDI| CINEMANIA GOLD 4K
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
