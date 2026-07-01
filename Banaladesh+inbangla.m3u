@@ -1,0 +1,361 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/42462.png" group-title="BAN| BANGLADESH",BAN| NTV BANGLA EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=42462&extension=ts&play_token=tYrRy8iIrT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/97110.png" group-title="BAN| BANGLADESH",BAN| ATN BANGLA EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=97110&extension=ts&play_token=TYSP7NYHYL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/97109.png" group-title="BAN| BANGLADESH",BAN| IQRA BANGLA EU
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=97109&extension=ts&play_token=t0wYYh1Sru
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282667.png" group-title="BAN| BANGLADESH",BAN| TRAVEL XP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282667&extension=ts&play_token=VxiCvSMWJ9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282666.png" group-title="BAN| BANGLADESH",BAN| STAR JALSHA MOVIES FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282666&extension=ts&play_token=1wyz4kyLg0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282665.png" group-title="BAN| BANGLADESH",BAN| NAT GEO CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282665&extension=ts&play_token=vmujUnOKoM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165525.png" group-title="BAN| BANGLADESH",BAN| ANANDA TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165525&extension=ts&play_token=EApqBn1LS5
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165526.png" group-title="BAN| BANGLADESH",BAN| ATN BANGLA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165526&extension=ts&play_token=5E68vmyLIX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1169994.png" group-title="BAN| BANGLADESH",BAN| TBN 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1169994&extension=ts&play_token=Xz47B2OGNO
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165528.png" group-title="BAN| BANGLADESH",BAN| ASIAN TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165528&extension=ts&play_token=uTNb0oaiSV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165527.png" group-title="BAN| BANGLADESH",BAN| ATN NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165527&extension=ts&play_token=syyNYGj5yV
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165531.png" group-title="BAN| BANGLADESH",BAN| BOISAKSHI TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165531&extension=ts&play_token=kpSpZyOSME
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165514.png" group-title="BAN| BANGLADESH",BAN| CHANNEL 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165514&extension=ts&play_token=PyP4khvroj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165512.png" group-title="BAN| BANGLADESH",BAN| CHANNEL S HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165512&extension=ts&play_token=rvqM5YcvCp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DBC-NEWS-HD.jpg" group-title="BAN| BANGLADESH",BAN| DBC NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165517&extension=ts&play_token=vfGAqi3pjo
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165523.png" group-title="BAN| BANGLADESH",BAN| DESHI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165523&extension=ts&play_token=d2dWDXaske
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165541.png" group-title="BAN| BANGLADESH",BAN| NEWS 24 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165541&extension=ts&play_token=VB50AeG8rm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/165521.png" group-title="BAN| BANGLADESH",BAN| SOMOY NEWS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=165521&extension=ts&play_token=BJRJYitEm1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225838.png" group-title="BAN| BANGLADESH",BAN| ANANDA BARTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225838&extension=ts&play_token=fd1XKU0juh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225836.png" group-title="BAN| BANGLADESH",BAN|  iTV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225836&extension=ts&play_token=MnZRObYwNp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225834.png" group-title="BAN| BANGLADESH",BAN| TV 9 BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225834&extension=ts&play_token=NJwIOMUjZu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225832.png" group-title="BAN| BANGLADESH",BAN|  DISCOVERY HD BENGALI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225832&extension=ts&play_token=VtwyqqhGrY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225831.png" group-title="BAN| BANGLADESH",BAN| REPUBLIC BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225831&extension=ts&play_token=8tLvEJOeXm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225823.png" group-title="BAN| BANGLADESH",BAN|  NRB CONNECT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225823&extension=ts&play_token=JwJhqhNshg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225815.png" group-title="BAN| BANGLADESH",BAN|  ANANDA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225815&extension=ts&play_token=I5KoVHovsM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225814.png" group-title="BAN| BANGLADESH",BAN| NEXUS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225814&extension=ts&play_token=6tGGpc4f2r
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225805.png" group-title="BAN| BANGLADESH",BAN|  STAR JALSHA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225805&extension=ts&play_token=eMQ7ZjXnZM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225804.png" group-title="BAN| BANGLADESH",BAN|  RANG TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225804&extension=ts&play_token=tLrmKnmtVc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225803.png" group-title="BAN| BANGLADESH",BAN|  MADANI TV BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225803&extension=ts&play_token=qCIEgL9E2d
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225802.png" group-title="BAN| BANGLADESH",BAN|  iON TV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225802&extension=ts&play_token=z0Su8DfV1t
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225797.png" group-title="BAN| BANGLADESH",BAN|  CHANNEL S UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225797&extension=ts&play_token=v8njwD3K4p
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225796.png" group-title="BAN| BANGLADESH",BAN|  ZEE BANGLA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225796&extension=ts&play_token=q1KIYXkdae
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225795.png" group-title="BAN| BANGLADESH",BAN|  PEACE TV BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225795&extension=ts&play_token=w6ApvKXuUR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225794.png" group-title="BAN| BANGLADESH",BAN|  MAGIC BANGLA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225794&extension=ts&play_token=n7KChK3R1z
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/EKUSHEY-TV.jpeg" group-title="BAN| BANGLADESH",BAN|  EKUSHEY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225791&extension=ts&play_token=QpRbj0CVqw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225786.png" group-title="BAN| BANGLADESH",BAN|  ZEE BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225786&extension=ts&play_token=5hO5j7Zfmw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225785.png" group-title="BAN| BANGLADESH",BAN|  NEWS 24 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225785&extension=ts&play_token=gaSToeEb6v
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225782.png" group-title="BAN| BANGLADESH",BAN|  ATN BANGLA USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225782&extension=ts&play_token=z0DL5gOFZp
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-BANGLA-CINEMA.png" group-title="BAN| BANGLADESH",BAN|  ZEE BANGLA CINEMA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225781&extension=ts&play_token=ZwyT6MA06h
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225777.png" group-title="BAN| BANGLADESH",BAN|  STAR JALSHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225777&extension=ts&play_token=qel0q2uO1b
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225776.png" group-title="BAN| BANGLADESH",BAN|  STAR JALSHA MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225776&extension=ts&play_token=auaMi2mKod
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225775.png" group-title="BAN| BANGLADESH",BAN|  SONY AATH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225775&extension=ts&play_token=qtuN5VcV36
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225774.png" group-title="BAN| BANGLADESH",BAN|  SOMOY NEWS TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225774&extension=ts&play_token=5tcjDIw7hI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225772.png" group-title="BAN| BANGLADESH",BAN| BOISHAKHI TV PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225772&extension=ts&play_token=UYSX7tpFg0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225770.png" group-title="BAN| BANGLADESH",BAN|  SANGEET BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225770&extension=ts&play_token=MWAj3HmdXC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225765.png" group-title="BAN| BANGLADESH",BAN|  NTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225765&extension=ts&play_token=RlaoyrCfIg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225764.png" group-title="BAN| BANGLADESH",BAN|  NTV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225764&extension=ts&play_token=4mRE66GwbE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225763.png" group-title="BAN| BANGLADESH",BAN|  NRB TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225763&extension=ts&play_token=szyLuy9YOy
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225762.png" group-title="BAN| BANGLADESH",BAN|  IQRA TV BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225762&extension=ts&play_token=DsGvb3uZOd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/INDIA_PAKISTAN/AMAR-BANGLA.png" group-title="BAN| BANGLADESH",BAN| AMAR BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225761&extension=ts&play_token=wpLVPgoxvL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225756.png" group-title="BAN| BANGLADESH",BAN|  MILLENNIUM TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225756&extension=ts&play_token=i26aCJHTXh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225749.png" group-title="BAN| BANGLADESH",BAN|  ETV BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225749&extension=ts&play_token=RQQij4VNNb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225748.png" group-title="BAN| BANGLADESH",BAN| EKATTOR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225748&extension=ts&play_token=CieayD45qQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225747.png" group-title="BAN| BANGLADESH",BAN|  DISCOVERY BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225747&extension=ts&play_token=hiDhfwSJaC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DHOOM-MUSIC.png" group-title="BAN| BANGLADESH",BAN|  DHOOM MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225746&extension=ts&play_token=gWAaLIcJHF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225745.png" group-title="BAN| BANGLADESH",BAN| DESH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225745&extension=ts&play_token=z1zyiv5xFn
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225744.png" group-title="BAN| BANGLADESH",BAN|  DESHE BIDESHE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225744&extension=ts&play_token=IIkpu6Vk8f
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225742.png" group-title="BAN| BANGLADESH",BAN|  DD BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225742&extension=ts&play_token=qE7lI7fnuh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/DBC-NEWS.png" group-title="BAN| BANGLADESH",BAN|  DBC NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225741&extension=ts&play_token=Vsh9ArHwfc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="BAN| BANGLADESH",BAN|  COLORS BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225740&extension=ts&play_token=m2mUABmEmi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225739.png" group-title="BAN| BANGLADESH",BAN| CHANNEL S
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225739&extension=ts&play_token=oj7WHWAalb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225735.png" group-title="BAN| BANGLADESH",BAN|  CHANNEL 24
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225735&extension=ts&play_token=OCApX79OaX
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225732.png" group-title="BAN| BANGLADESH",BAN|  BOISHAKHI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225732&extension=ts&play_token=MOqEmhTD15
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225726.png" group-title="BAN| BANGLADESH",BAN|  BANGLA ETV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225726&extension=ts&play_token=YuUAl4jU4z
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225723.png" group-title="BAN| BANGLADESH",BAN|  ATN BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225723&extension=ts&play_token=RqG6AvXwQg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225722.png" group-title="BAN| BANGLADESH",BAN|  ATN BANGLA UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225722&extension=ts&play_token=m4qFQvdSLT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225721.png" group-title="BAN| BANGLADESH",BAN|  ASIAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225721&extension=ts&play_token=xYI7nCYDfL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225720.png" group-title="BAN| BANGLADESH",BAN|  ABP ANANDA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225720&extension=ts&play_token=RFmsWVujU9
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/AAKASH-BANGLA.png" group-title="BAN| BANGLADESH",BAN|  AAKAASH BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225716&extension=ts&play_token=IaDSg6nhxg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/225714.png" group-title="BAN| BANGLADESH",BAN|  JALSHA MOVIES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225714&extension=ts&play_token=M8BY6kGMjt
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/ZEE-24-GHANTA.png" group-title="BAN| BANGLADESH",BAN|  ZEE 24 GHANTA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225713&extension=ts&play_token=AZmzHyLDsZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/COLORS-BANGLA-HD.jpeg" group-title="BAN| BANGLADESH",BAN|  COLORS BANGLA HD-1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=225712&extension=ts&play_token=s7KMeZ9iaC

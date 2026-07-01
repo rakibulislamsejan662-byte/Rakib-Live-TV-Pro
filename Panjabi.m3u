@@ -1,0 +1,401 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1438225.png" group-title="ASIA | PUNJABI",PUNJABI| CINEMANIA 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1438225&extension=ts&play_token=wKYdMt7sG4
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670148.png" group-title="ASIA | PUNJABI",PUNJABI| 5 AAB TODAY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670148&extension=ts&play_token=81BqCjoFqc
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/7X-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| 7X MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527133&extension=ts&play_token=xQaMiwltYL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358132.png" group-title="ASIA | PUNJABI",PUNJABI| 9X TASHAN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358132&extension=ts&play_token=CYdSOEYSzm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156843.png" group-title="ASIA | PUNJABI",PUNJABI| 9X TASHAN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156843&extension=ts&play_token=vcRrk0SAgF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1097716.png" group-title="ASIA | PUNJABI",PUNJABI| ABDERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097716&extension=ts&play_token=i6uSA8WRnY
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358135.png" group-title="ASIA | PUNJABI",PUNJABI| AKAAL CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358135&extension=ts&play_token=gH3tAnPBLu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358136.png" group-title="ASIA | PUNJABI",PUNJABI| AKAAL TV UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358136&extension=ts&play_token=x0QbjBtluI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527134.png" group-title="ASIA | PUNJABI",PUNJABI| ANB NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527134&extension=ts&play_token=Jm3f6wX1RL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282037.png" group-title="ASIA | PUNJABI",PUNJABI| BALLE BALLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282037&extension=ts&play_token=IdY0rpQdBr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BALLE-NON-STOP-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| BALLE NON STOP MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1097718&extension=ts&play_token=VVG5kS0IYe
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358146.png" group-title="ASIA | PUNJABI",PUNJABI| BALLEBALE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358146&extension=ts&play_token=zPsuweHJ6m
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/BOOGLE-BOLLYWOOD.png" group-title="ASIA | PUNJABI",PUNJABI| BOOGLE BOLLYWOOD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527131&extension=ts&play_token=u7qvRxwYxt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670145.png" group-title="ASIA | PUNJABI",PUNJABI| CHANNEL PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670145&extension=ts&play_token=8EKgyzFcfv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358157.png" group-title="ASIA | PUNJABI",PUNJABI| CHANNEL Y
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358157&extension=ts&play_token=hOuTxMopBD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHARDIKALAH-TIMES.png" group-title="ASIA | PUNJABI",PUNJABI| CHARDIKALAH TIMES TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155953&extension=ts&play_token=5lu3yB0Vaw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282038.png" group-title="ASIA | PUNJABI",PUNJABI| CHARDIKLA TIME
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282038&extension=ts&play_token=tvPxGbTTN7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358158.png" group-title="ASIA | PUNJABI",PUNJABI| CHARDIKLA TIME TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358158&extension=ts&play_token=eUwd4mEiTr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/CHARDIKLA-TIME.png" group-title="ASIA | PUNJABI",PUNJABI| CHARDIKLA TIME TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156845&extension=ts&play_token=4EGeqEF7dt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527128.png" group-title="ASIA | PUNJABI",PUNJABI| DD PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527128&extension=ts&play_token=HBNZBDXICD
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155937.png" group-title="ASIA | PUNJABI",PUNJABI| DD PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155937&extension=ts&play_token=WrrYqZ1p2X
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155948.png" group-title="ASIA | PUNJABI",PUNJABI| FATEH TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155948&extension=ts&play_token=Qv60fTp4p9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/157154.png" group-title="ASIA | PUNJABI",PUNJABI| GAUNDA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=157154&extension=ts&play_token=oJMFJfIKOV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/GLOBAL-PUNJABI.png" group-title="ASIA | PUNJABI",PUNJABI| GLOBAL PUNJABI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155963&extension=ts&play_token=cG1zHj4UYv
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/GURDWARA-SAHIB-SEATTLE.png" group-title="ASIA | PUNJABI",PUNJABI| GURDWARA SAHIB SEATTLE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670144&extension=ts&play_token=0GMLrVYzlr
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670132.png" group-title="ASIA | PUNJABI",PUNJABI| GURMAT TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670132&extension=ts&play_token=otHLoi8wMj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HAMDARD.png" group-title="ASIA | PUNJABI",PUNJABI| HAMDARD TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670142&extension=ts&play_token=uHFpSUzPsd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/HUNGAMA-POP-PATAKA.png" group-title="ASIA | PUNJABI",PUNJABI| HUNGAMA BOL HADIPPA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670149&extension=ts&play_token=SKDY3bGshE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670140.png" group-title="ASIA | PUNJABI",PUNJABI| INDOZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670140&extension=ts&play_token=Wv0pbPI4JK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155950.png" group-title="ASIA | PUNJABI",PUNJABI| JUS ONE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155950&extension=ts&play_token=DuIlYOLKeR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156847.png" group-title="ASIA | PUNJABI",PUNJABI| JUS PUNJABI USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156847&extension=ts&play_token=UHUy7mJcJs
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670138.png" group-title="ASIA | PUNJABI",PUNJABI| KANSHI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670138&extension=ts&play_token=eSPWcRmeWI
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527127.png" group-title="ASIA | PUNJABI",PUNJABI| KHABAR FAST
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527127&extension=ts&play_token=zt08F0v15t
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527125.png" group-title="ASIA | PUNJABI",PUNJABI| LIVE PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527125&extension=ts&play_token=D3Af83a7fC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155957.png" group-title="ASIA | PUNJABI",PUNJABI| LIVING INDIA NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155957&extension=ts&play_token=wLpSO9rVrE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155940.png" group-title="ASIA | PUNJABI",PUNJABI| MAHA PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155940&extension=ts&play_token=JGlYHn0f30
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155984.png" group-title="ASIA | PUNJABI",PUNJABI| MANORANJAN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155984&extension=ts&play_token=EtUtpHqkZj
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282046.png" group-title="ASIA | PUNJABI",PUNJABI| MH 1 NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282046&extension=ts&play_token=xAN846KvI7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MH-ONE-SHRADDHA.png" group-title="ASIA | PUNJABI",PUNJABI| MH ONE SHRADDHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527124&extension=ts&play_token=Fc7sRVYYyO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/MH1-PRIME-NEWS.png" group-title="ASIA | PUNJABI",PUNJABI| MH1 PRIME NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527130&extension=ts&play_token=swwyrZrVdE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155945.png" group-title="ASIA | PUNJABI",PUNJABI| MH1 SHARADDHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155945&extension=ts&play_token=YvJ4wr8R1a
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NAMDHARI.png" group-title="ASIA | PUNJABI",PUNJABI| NAMDHARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670136&extension=ts&play_token=7ShjWBK90S
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS-18-PUNJAB-HARYANA.png" group-title="ASIA | PUNJABI",PUNJABI| NEWS 18 PUNJAB HARYANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156115&extension=ts&play_token=tanPe6rtha
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/NEWS18-PUNJABI.png" group-title="ASIA | PUNJABI",PUNJABI| NEWS18 PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527122&extension=ts&play_token=ru5gqFgCfP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ONLY-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| ONLY MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670135&extension=ts&play_token=tMu0akHPjh
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670134.png" group-title="ASIA | PUNJABI",PUNJABI| PARDESI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670134&extension=ts&play_token=Ue3RuxaSgv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670143.png" group-title="ASIA | PUNJABI",PUNJABI| PARVASI TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670143&extension=ts&play_token=3vPv2TUM35
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PBN-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| PBN MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670133&extension=ts&play_token=vrH9DT7K5q
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155947.png" group-title="ASIA | PUNJABI",PUNJABI| PITAARA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155947&extension=ts&play_token=jB8RXMx2Oa
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527136.png" group-title="ASIA | PUNJABI",PUNJABI| POLITICS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527136&extension=ts&play_token=FCMfcFOgS0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155961.png" group-title="ASIA | PUNJABI",PUNJABI| PRIME ASIA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155961&extension=ts&play_token=16ajM8OvGF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-CHAKDE.png" group-title="ASIA | PUNJABI",PUNJABI| PTC CHAKDE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155951&extension=ts&play_token=uKrDLk4spi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282050.png" group-title="ASIA | PUNJABI",PUNJABI| PTC GOLD FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282050&extension=ts&play_token=jRLQ6oYKXx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| PTC MUSIC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282051&extension=ts&play_token=Dv2xXv7iE7
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-MUSIC.png" group-title="ASIA | PUNJABI",PUNJABI| PTC MUSIC USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156838&extension=ts&play_token=OoeCXRtvYg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527138.png" group-title="ASIA | PUNJABI",PUNJABI| PTC NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527138&extension=ts&play_token=PLoJOgdAda
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155956.png" group-title="ASIA | PUNJABI",PUNJABI| PTC NEWS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155956&extension=ts&play_token=8hnQbvSC81
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156840.png" group-title="ASIA | PUNJABI",PUNJABI| PTC NEWS USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156840&extension=ts&play_token=QLkmBOCmHt
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155955.png" group-title="ASIA | PUNJABI",PUNJABI| PTC PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155955&extension=ts&play_token=YSgz9WrJXQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282053.png" group-title="ASIA | PUNJABI",PUNJABI| PTC PUNJABI FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282053&extension=ts&play_token=PHFt4WKltK
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527137.png" group-title="ASIA | PUNJABI",PUNJABI| PTC PUNJABI GOLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527137&extension=ts&play_token=KdL7g01Rnu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-PUNJABI-GOLD.png" group-title="ASIA | PUNJABI",PUNJABI| PTC PUNJABI GOLD USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156836&extension=ts&play_token=0i0RZXAL4V
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156834.png" group-title="ASIA | PUNJABI",PUNJABI| PTC PUNJABI USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156834&extension=ts&play_token=skGuxfnVLZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/PTC-SIMRAN.png" group-title="ASIA | PUNJABI",PUNJABI| PTC SIMRAN USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156835&extension=ts&play_token=Qt5NeV8cDm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670151.png" group-title="ASIA | PUNJABI",PUNJABI| PUNJAB DE RANG FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670151&extension=ts&play_token=wJP3OtWgBQ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155941.png" group-title="ASIA | PUNJABI",PUNJABI| PUNJABI TADKA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155941&extension=ts&play_token=797a4CQjba
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/265456.png" group-title="ASIA | PUNJABI",PUNJABI| RANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=265456&extension=ts&play_token=cZJyXS20j2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670146.png" group-title="ASIA | PUNJABI",PUNJABI| SADA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670146&extension=ts&play_token=pkHbuJ8AM0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670125.png" group-title="ASIA | PUNJABI",PUNJABI| SANGAT UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670125&extension=ts&play_token=i9dLTVJY1i
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156831.png" group-title="ASIA | PUNJABI",PUNJABI| SANJHA TV USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156831&extension=ts&play_token=IDVXRh7cmp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670124.png" group-title="ASIA | PUNJABI",PUNJABI| SARDARI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670124&extension=ts&play_token=HchJnk5A2y
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358105.png" group-title="ASIA | PUNJABI",PUNJABI| SIKH CHANNEL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358105&extension=ts&play_token=99nvSECD1p
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1527126.png" group-title="ASIA | PUNJABI",PUNJABI| STV HARYANA NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527126&extension=ts&play_token=tnvn64wX2J
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1670122.png" group-title="ASIA | PUNJABI",PUNJABI| THE TV NRI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1670122&extension=ts&play_token=xGGbeq8KYW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-DELHI-NCR-HARYANA.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE DELHI NCR HARYANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1527135&extension=ts&play_token=y9HQI2SPOo
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-PUNJAB-HARYANA.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE PUNJAB HARYANA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155938&extension=ts&play_token=XBUSwKvoDB
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155944.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155944&extension=ts&play_token=KGsIh6FQnp
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/358125.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE PUNJABI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=358125&extension=ts&play_token=8kDOxwnaQx
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282059.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE PUNJABI HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282059&extension=ts&play_token=4BOjEwd2Jm
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/282060.png" group-title="ASIA | PUNJABI",PUNJABI| ZEE PUNJABI NEWS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=282060&extension=ts&play_token=2rme4Ty0Tt
