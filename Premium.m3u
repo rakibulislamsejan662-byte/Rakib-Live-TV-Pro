@@ -11,6 +11,255 @@ https://binge.oolcaykarael.workers.dev/
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvAQXbIhY6j9a90ncb1E9agWI1kFaxpnKeyL_pQCWU8Pyi_bH9VibPCXw&s=10" group-title="FIFA World Cup 2026",🏆 France vs Sweden
 https://hls.diptom3ow.workers.dev/out/v1/60e7608404004b1186261497b404630b/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1438227.png" group-title="ASIA | INDIA",HINDI| CINEMANIA GOLD 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1438227&extension=ts&play_token=g5YmMrRUBk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1438228.png" group-title="ASIA | INDIA",HINDI| CINEMANIA 4K
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1438228&extension=ts&play_token=aVtwklKomP
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/809740.png" group-title="ASIA | INDIA",HINDI| AND TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=809740&extension=ts&play_token=fxo1lNgKUg
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155974.png" group-title="ASIA | INDIA",HINDI| ZEE TV FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155974&extension=ts&play_token=zT2JIxNukc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280773.png" group-title="ASIA | INDIA",HINDI| ZEE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280773&extension=ts&play_token=UMRleoDvCL
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1519732.png" group-title="ASIA | INDIA",HINDI| ZEE TV USA HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1519732&extension=ts&play_token=YUVaQUFtxA
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540043.png" group-title="ASIA | INDIA",HINDI| ZEE BISKOPE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540043&extension=ts&play_token=7nvKlokqUS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540042.png" group-title="ASIA | INDIA",HINDI| ZEE SARTHAK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540042&extension=ts&play_token=HyWiCv422B
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ZEE-TALKIES.png" group-title="ASIA | INDIA",HINDI| ZEE TALKIES FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540040&extension=ts&play_token=ahfluUp8Ca
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540041.png" group-title="ASIA | INDIA",HINDI| ZEE THIRAI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540041&extension=ts&play_token=uMK4NuPrkE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156172.png" group-title="ASIA | INDIA",HINDI| COLORS FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156172&extension=ts&play_token=1Sa3nd3SbR
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280774.png" group-title="ASIA | INDIA",HINDI| COLORS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280774&extension=ts&play_token=PP2FqFx94c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/AAPKA-COLORS.png" group-title="ASIA | INDIA",HINDI| AAPKA COLORS HD USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=157161&extension=ts&play_token=GybN2YFOxM
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/155971.png" group-title="ASIA | INDIA",HINDI| STAR PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=155971&extension=ts&play_token=Wn6IacH0CC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280767.png" group-title="ASIA | INDIA",HINDI| STAR PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280767&extension=ts&play_token=7tJOEmgdar
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156173.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156173&extension=ts&play_token=maFJDFhleF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280765.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280765&extension=ts&play_token=D7tl9Edlaw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156163.png" group-title="ASIA | INDIA",HINDI| STAR UTSAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156163&extension=ts&play_token=tyWLfyGzzS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540044.png" group-title="ASIA | INDIA",HINDI| STAR UTSAV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540044&extension=ts&play_token=UhtGfN2Yav
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156170.png" group-title="ASIA | INDIA",HINDI| SONY HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156170&extension=ts&play_token=0OGPMHk2UU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/SONY.png" group-title="ASIA | INDIA",HINDI| SONY HD (Back-Up)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156104&extension=ts&play_token=ondnnsfSvS
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280777.png" group-title="ASIA | INDIA",HINDI| SONY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280777&extension=ts&play_token=KANyBbSPFC
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/157159.png" group-title="ASIA | INDIA",HINDI| SONY HD USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=157159&extension=ts&play_token=xztIFlr7BT
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/156014.png" group-title="ASIA | INDIA",HINDI| SONY SAB HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=156014&extension=ts&play_token=9YNHP9QNvi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/280764.png" group-title="ASIA | INDIA",HINDI| SONY SAB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=280764&extension=ts&play_token=klyzkHXYDy
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945583.png" group-title="ASIA | INDIA",HINDI| EK NOOR
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945583&extension=ts&play_token=fkV9np8UA0
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945582.png" group-title="ASIA | INDIA",HINDI| PUTHIYA THALAIMURAI
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945582&extension=ts&play_token=i0qFW2px4n
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945581.png" group-title="ASIA | INDIA",HINDI| KALAIGNAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945581&extension=ts&play_token=07RJQ9mqoe
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945575.png" group-title="ASIA | INDIA",HINDI| STAR JALSHA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945575&extension=ts&play_token=9MpzgQeaG1
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945574.png" group-title="ASIA | INDIA",HINDI| UTSAV PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945574&extension=ts&play_token=8UOsg5wHEk
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945573.png" group-title="ASIA | INDIA",HINDI| STAR VIJAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945573&extension=ts&play_token=rEbHKvR9Rv
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945553.png" group-title="ASIA | INDIA",HINDI| STAR PRAVAH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945553&extension=ts&play_token=FHctdUWkJw
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945552.png" group-title="ASIA | INDIA",HINDI| STAR VIJAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945552&extension=ts&play_token=5iKzzQ8ugc
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945579.png" group-title="ASIA | INDIA",HINDI| STAR BHARAT UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945579&extension=ts&play_token=lwx2GsD6dd
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945578.png" group-title="ASIA | INDIA",HINDI| MAKKAL TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945578&extension=ts&play_token=QudAmby4Xu
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945577.png" group-title="ASIA | INDIA",HINDI| POLIMER TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945577&extension=ts&play_token=mLVkdD6qU7
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945576.png" group-title="ASIA | INDIA",HINDI| RUPASHI BANGLA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945576&extension=ts&play_token=5Bwc7zgnF3
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945571.png" group-title="ASIA | INDIA",HINDI| SUN TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945571&extension=ts&play_token=ZJH40M5n6f
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945570.png" group-title="ASIA | INDIA",HINDI| VENDHAR TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945570&extension=ts&play_token=hFqxyYE4G9
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945564.png" group-title="ASIA | INDIA",HINDI| ZOOM
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945564&extension=ts&play_token=aLpmYobdFE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540036.png" group-title="ASIA | INDIA",HINDI| INDOZ TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540036&extension=ts&play_token=V74QCCX6Qu
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-PLAY-FUN-LEARN-JUNIOR.png" group-title="ASIA | INDIA",HINDI| PLANET FUN KIDS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540030&extension=ts&play_token=grRNf8f9CG
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540034.png" group-title="ASIA | INDIA",HINDI| LIVE PUNJABI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540034&extension=ts&play_token=pN3WKIFUK8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1540037.png" group-title="ASIA | INDIA",HINDI| AKAAR WORLD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540037&extension=ts&play_token=ElgdnXmoXR
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-PLAY-SMART-MANAGER.png" group-title="ASIA | INDIA",HINDI| TATA PLAY SMART MANAGER
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540038&extension=ts&play_token=ks6k6XgfKb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/TATA-PLAY-VEDIC-MATHS.png" group-title="ASIA | INDIA",HINDI| TATA PLAY VEDIC MATHS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=1540039&extension=ts&play_token=pYUcGx2qVb
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945562.png" group-title="ASIA | INDIA",HINDI| ASIANET PLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945562&extension=ts&play_token=U0E2mJiaey
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945561.png" group-title="ASIA | INDIA",HINDI| ASIANET TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945561&extension=ts&play_token=SjaSFv6Y9p
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945556.png" group-title="ASIA | INDIA",HINDI| KAIRALI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=mac=A0:BB:3E:42:A2:9C; stb_lang=en; timezone=GMT
+http://mag.trexlive.me:80/play/live.php?mac=A0%3ABB%3A3E%3A42%3AA2%3A9C&stream=945556&extension=ts&play_token=Vn91etInrW
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/945554.png" group-title="ASIA | INDIA",HINDI| MAA TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://mag.trexlive.me:80/c/c/
+#EXTVLCOPT:http-cookie=ma
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyMdPoEu64BLrh_EJjpUne2ZEK5occNW6IyV7Ob0z2aLEu82gSncExZsw&s=10" group-title="FIFA World Cup 2026",🏆 Mexico vs Ecuador
 http://live.joshbdixsports.shop/t.me/josharmy007___IV_vs__NORc355/index.m3u8
 #EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/WORLDCUP2026REPLAY.png" group-title="DE| FUSSBALL.TV WORLD CUP",DE| FUSSBALL.TV 1 ᴴᴰ
