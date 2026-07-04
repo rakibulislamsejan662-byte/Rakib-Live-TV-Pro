@@ -1,113 +1,103 @@
 #EXTM3U
 
-# ===== Argentina vs Cabo Verde | 4 July 2026 =====
+===== 🇧🇩 BANGLADESH NEWS =====
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HMS79cuXQAA9N5w.jpg" group-title="FIFA 2026 Highlights",Argentina vs Cabo Verde - Highlights
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/LuW7S8tMG1BUGRnSNfacBg/lf/wybszwqs/ofygsh/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/Ekattor_TV_logo.png" group-title="🇧🇩 Bangladesh News",Ekattor TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
 
-#EXTINF:-1 group-title="FIFA 2026 Highlights",Argentina vs Cabo Verde - Highlights Backup
-https://fullmatchshows.embed4me.com/hls/LuW7S8tMG1BUGRnSNfacBg/lf/wybszwqs/ofygsh/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Independent_TV_logo.png" group-title="🇧🇩 Bangladesh News",Independent TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Somoy_TV_logo.png" group-title="🇧🇩 Bangladesh News",Somoy TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
 
-# ===== Extended =====
-#EXTINF:-1 group-title="FIFA 2026 Extended",Argentina vs Cabo Verde - Extended (EN)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/5lU8E7oFEhIYANGfK1nvKw/miy/wybszwqs/nxmhc5/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8b/Channel24_logo.png" group-title="🇧🇩 Bangladesh News",Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/ATN_News_logo.png" group-title="🇧🇩 Bangladesh News",ATN News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/index.m3u8
 
-# ===== 1st Half (EN) =====
-#EXTINF:-1 group-title="FIFA 2026 1st Half EN",Argentina vs Cabo Verde - 1st Half (EN)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Bb5O3QM0RWWMnzuegUrWNg/us/wybszwqs/dybgza/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/DBC_News_logo.png" group-title="🇧🇩 Bangladesh News",DBC News
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 group-title="FIFA 2026 1st Half EN",Argentina vs Cabo Verde - 1st Half Backup
-https://fullmatchshows.embed4me.com/hls/Bb5O3QM0RWWMnzuegUrWNg/us/wybszwqs/dybgza/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/30/News24_BD_logo.png" group-title="🇧🇩 Bangladesh News",News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9c/Jamuna_TV_logo.png" group-title="🇧🇩 Bangladesh News",Jamuna TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 
-# ===== 2nd Half (EN) =====
-#EXTINF:-1 group-title="FIFA 2026 2nd Half EN",Argentina vs Cabo Verde - 2nd Half (EN)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Reosp0JcAeKBniHYcqgdQw/c5u/wybszwqs/kz1xyt/tt/index-f2-v1-a1.m3u8?v=1766826492
+===== 🎬 BANGLADESH ENTERTAINMENT =====
 
-#EXTINF:-1 group-title="FIFA 2026 2nd Half EN",Argentina vs Cabo Verde - 2nd Half Backup
-https://fullmatchshows.embed4me.com/hls/r4iypz1l2qA5okCB5hpfFQ/k5/wybszwqs/ht5z5v/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Channel_i_logo.png" group-title="🇧🇩 Entertainment",Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Maasranga_TV_logo.png" group-title="🇧🇩 Entertainment",Maasranga TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
-# ===== Extra Time (EN) =====
-#EXTINF:-1 group-title="FIFA 2026 Extra Time EN",Argentina vs Cabo Verde - Extra Time (EN)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Reosp0JcAeKBniHYcqgdQw/c5u/wybszwqs/kz1xyt/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/SATV_logo.png" group-title="🇧🇩 Entertainment",SATV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
-#EXTINF:-1 group-title="FIFA 2026 Extra Time EN",Argentina vs Cabo Verde - Extra Time Backup
-https://fullmatchshows.embed4me.com/hls/Reosp0JcAeKBniHYcqgdQw/c5u/wybszwqs/kz1xyt/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Banglavision_logo.png" group-title="🇧🇩 Entertainment",Banglavision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/NTV_logo.png" group-title="🇧🇩 Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
-# ===== 1st Half (AR) =====
-#EXTINF:-1 group-title="FIFA 2026 1st Half AR",Argentina vs Cabo Verde - 1st Half (AR)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/ccAbFNgWYUPApTQruipfBA/xq/wybszwqs/86iltx/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Deepto_TV_logo.png" group-title="🇧🇩 Entertainment",Deepto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 
+===== 🇮🇳 INDIA BANGLA =====
 
-# ===== 2nd Half (AR) =====
-#EXTINF:-1 group-title="FIFA 2026 2nd Half AR",Argentina vs Cabo Verde - 2nd Half (AR)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-tfCakc4_KxF9QOElAofjg/5w3/wybszwqs/pvaykt/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7d/Zee_Bangla_logo.png" group-title="🇮🇳 India Bangla",Zee Bangla
+https://stream.ottplus.live/live/zee_bangla_abr/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Star_Jalsha_logo.png" group-title="🇮🇳 India Bangla",Star Jalsha
+https://catchup.yuppcdn.net/amazonv2/36/preview/starjalsha/master/chunklist.m3u8
 
-# ===== Extra Time (AR) =====
-#EXTINF:-1 group-title="FIFA 2026 Extra Time AR",Argentina vs Cabo Verde - Extra Time (AR)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/_E1UG8bSaY20-pxTaehWag/vz1/wybszwqs/cie95a/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Enterr10_Bangla_logo.png" group-title="🇮🇳 India Bangla",Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1 group-title="FIFA 2026 Extra Time AR",Argentina vs Cabo Verde - Extra Time Backup
-https://fullmatchshows.embed4me.com/hls/_E1UG8bSaY20-pxTaehWag/vz1/wybszwqs/cie95a/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/TV9_Bangla_logo.png" group-title="🇮🇳 India Bangla",TV9 Bangla
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
+===== 🌍 INTERNATIONAL NEWS =====
 
-# ===== Full Match =====
-#EXTINF:-1 group-title="FIFA 2026 Full Match",Argentina vs Cabo Verde - Full Match
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/WUF7pZ5jHgTsggFRkdGz_g/ic/wybszwqs/cielon/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/Aljazeera_logo.png" group-title="🌍 News",Al Jazeera
+https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
 
-#EXTINF:-1 group-title="FIFA 2026 Full Match",Argentina vs Cabo Verde - Full Match Backup
-https://fullmatchshows.embed4me.com/hls/WUF7pZ5jHgTsggFRkdGz_g/ic/wybszwqs/cielon/tt/index-f1-v1-a1.m3u8?v=1766826492
-#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/DW_logo.png" group-title="🌍 News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png",T Sports 1080p
-http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/India_Today_logo.png" group-title="🌍 News",India Today
+https://feeds.intoday.in/hltapps/api/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",Unite8 Sports 2 1080p
-http://103.114.11.37:8081/Unite8-sports-2/video.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TRT_World_logo.png" group-title="🌍 News",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUyktcjNRLtY8P981ALMM9WzpxqHhuj-e9w&s",Caze TV 1080p
-http://103.114.11.37:8081/CazeTv1080p/video.m3u8?token=bJPpluZ30rPLH3
+===== ⚽ SPORTS =====
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUyktcjNRLtY8P981ALMM9WzpxqHhuj-e9w&s",Caze TV 720p
-http://103.114.11.37:8081/caze-tv-720p/video.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/DD_Sports_logo.png" group-title="⚽ Sports",DD Sports
+https://cdn-6.pishow.tv/live/13/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/500px-Bangladesh_Television_Logo.svg.png",BTV
-http://103.114.11.37:8081/BTV/video.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/KTV_Sport_logo.png" group-title="⚽ Sports",KTV Sport
+https://kwtsplta.cdn.mangomolo.com/spl/smil:spl.stream.smil/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/500px-SOMOY_TV_Logo.svg.png",Somoy TV
-http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=bJPpluZ30rPLH3
+===== 🎧 MUSIC =====
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png",PTV
-http://103.114.11.37:8081/PTV/video.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/9XM_logo.png" group-title="🎧 Music",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
 
-#EXTINF:-1,4K 1
-http://103.114.11.37:8081/FIFAPLUS/index.m3u8?token=bJPpluZ30rPLH3
+===== 🎬 MOVIES =====
 
-#EXTINF:-1,4K 2
-http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Goldmines_logo.png" group-title="🎬 Movies",Goldmines Movies
+https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1,4K 3
-http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
+===== 🧒 KIDS =====
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MyTeam_TV_-_Fu%C3%9Fball_Logo.svg/1280px-MyTeam_TV_-_Fu%C3%9Fball_Logo.svg.png",Fussball TV1
-http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__Round_of_16_1st_Match_bfhw/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7a/Cartoon_Network_logo.png" group-title="🧒 Kids",Cartoon Network
+https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png",Fox Sports
-https://cdn011.viaplus.site/fox-xyz.m3u8
+===== 🌐 EXTRA =====
 
-# ===== Extra Time (AR) =====
-#EXTINF:-1 group-title="Extra Time AR",Extra Time AR
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/_E1UG8bSaY20-pxTaehWag/vz1/wybszwqs/cie95a/tt/index-f2-v1-a1.m3u8?v=1766826492
-
-
-# ===== Full Match =====
-#EXTINF:-1 group-title="Full Match",Full Match 1
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/WUF7pZ5jHgTsggFRkdGz_g/ic/wybszwqs/cielon/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-#EXTINF:-1 group-title="Full Match",Full Match 2
-https://fullmatchshows.embed4me.com/hls/WUF7pZ5jHgTsggFRkdGz_g/ic/wybszwqs/cielon/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/RedBull_TV_logo.png" group-title="🌐 Extra",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
