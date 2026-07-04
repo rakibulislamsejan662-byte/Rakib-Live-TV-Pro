@@ -62,53 +62,43 @@ https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/WU
 
 #EXTINF:-1 group-title="FIFA 2026 Full Match",Argentina vs Cabo Verde - Full Match Backup
 https://fullmatchshows.embed4me.com/hls/WUF7pZ5jHgTsggFRkdGz_g/ic/wybszwqs/cielon/tt/index-f1-v1-a1.m3u8?v=1766826492
-
 #EXTM3U
 
-# ===== Argentina vs Cabo Verde | 4 July 2026 =====
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/500px-T_Sports_logo.svg.png",T Sports 1080p
+http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/HMS79cuXQAA9N5w.jpg" group-title="Highlights",Highlights 1
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/LuW7S8tMG1BUGRnSNfacBg/lf/wybszwqs/ofygsh/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/dd/Screenshot_2026-06-10_002618.png/revision/latest/scale-to-width-down/732?cb=20260609185656",Unite8 Sports 2 1080p
+http://103.114.11.37:8081/Unite8-sports-2/video.m3u8?token=bJPpluZ30rPLH3
 
-#EXTINF:-1 group-title="Highlights",Highlights 2
-https://fullmatchshows.embed4me.com/hls/LuW7S8tMG1BUGRnSNfacBg/lf/wybszwqs/ofygsh/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUyktcjNRLtY8P981ALMM9WzpxqHhuj-e9w&s",Caze TV 1080p
+http://103.114.11.37:8081/CazeTv1080p/video.m3u8?token=bJPpluZ30rPLH3
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUUyktcjNRLtY8P981ALMM9WzpxqHhuj-e9w&s",Caze TV 720p
+http://103.114.11.37:8081/caze-tv-720p/video.m3u8?token=bJPpluZ30rPLH3
 
-# ===== Extended =====
-#EXTINF:-1 group-title="Extended",Extended (EN)
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/5lU8E7oFEhIYANGfK1nvKw/miy/wybszwqs/nxmhc5/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/500px-Bangladesh_Television_Logo.svg.png",BTV
+http://103.114.11.37:8081/BTV/video.m3u8?token=bJPpluZ30rPLH3
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c4/SOMOY_TV_Logo.svg/500px-SOMOY_TV_Logo.svg.png",Somoy TV
+http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=bJPpluZ30rPLH3
 
-# ===== 1st Half (EN) =====
-#EXTINF:-1 group-title="1st Half EN",1st Half EN 1
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Bb5O3QM0RWWMnzuegUrWNg/us/wybszwqs/dybgza/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png",PTV
+http://103.114.11.37:8081/PTV/video.m3u8?token=bJPpluZ30rPLH3
 
-#EXTINF:-1 group-title="1st Half EN",1st Half EN 2
-https://fullmatchshows.embed4me.com/hls/Bb5O3QM0RWWMnzuegUrWNg/us/wybszwqs/dybgza/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1,4K 1
+http://103.114.11.37:8081/FIFAPLUS/index.m3u8?token=bJPpluZ30rPLH3
 
+#EXTINF:-1,4K 2
+http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
 
-# ===== 2nd Half (EN) =====
-#EXTINF:-1 group-title="2nd Half EN",2nd Half EN 1
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Reosp0JcAeKBniHYcqgdQw/c5u/wybszwqs/kz1xyt/tt/index-f2-v1-a1.m3u8?v=1766826492
+#EXTINF:-1,4K 3
+http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
 
-#EXTINF:-1 group-title="2nd Half EN",2nd Half EN 2
-https://fullmatchshows.embed4me.com/hls/r4iypz1l2qA5okCB5hpfFQ/k5/wybszwqs/ht5z5v/tt/index-f1-v1-a1.m3u8?v=1766826492
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MyTeam_TV_-_Fu%C3%9Fball_Logo.svg/1280px-MyTeam_TV_-_Fu%C3%9Fball_Logo.svg.png",Fussball TV1
+http://live.joshbdixsports.shop/t.me/josharmy007___Join_now__Round_of_16_1st_Match_bfhw/index.m3u8
 
-
-# ===== Extra Time (EN) =====
-#EXTINF:-1 group-title="Extra Time EN",Extra Time EN
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/Reosp0JcAeKBniHYcqgdQw/c5u/wybszwqs/kz1xyt/tt/index-f2-v1-a1.m3u8?v=1766826492
-
-
-# ===== 1st Half (AR) =====
-#EXTINF:-1 group-title="1st Half AR",1st Half AR
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/ccAbFNgWYUPApTQruipfBA/xq/wybszwqs/86iltx/tt/index-f1-v1-a1.m3u8?v=1766826492
-
-
-# ===== 2nd Half (AR) =====
-#EXTINF:-1 group-title="2nd Half AR",2nd Half AR
-https://fullmatchshows.embedseek.com/hlsmod/p16-ad-site-sign-sg.tiktokcdn.com/-tfCakc4_KxF9QOElAofjg/5w3/wybszwqs/pvaykt/tt/index-f2-v1-a1.m3u8?v=1766826492
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/250px-FOX_Sports_logo.svg.png",Fox Sports
+https://cdn011.viaplus.site/fox-xyz.m3u8
 
 # ===== Extra Time (AR) =====
 #EXTINF:-1 group-title="Extra Time AR",Extra Time AR
