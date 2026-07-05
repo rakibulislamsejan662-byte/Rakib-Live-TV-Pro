@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 ===== 🇧🇩 BANGLADESH NEWS =====
 #EXTINF:-1, FIFA Live
@@ -100,3 +100,38 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/us/RedBullTV.png" group-title="🌐 Extra",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+
+#EXTM3U
+
+#EXTINF:-1,T Sports 1080p "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png"
+http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,Unite8 Sports 2 1080p "https://www.indigital.co.in/images/logo/UNITE8-SPORTS-2.png"
+http://103.114.11.37:8081/Unite8-sports-2/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,Caze Tv 1080p "https://logospng.org/wp-content/uploads/caze-tv.png"
+http://103.114.11.37:8081/CazeTv1080p/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,Caze Tv 720p "https://logospng.org/wp-content/uploads/caze-tv.png"
+http://103.114.11.37:8081/caze-tv-720p/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,BTV "https://upload.wikimedia.org/wikipedia/bn/thumb/c/ca/%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/500px-%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE%E0%A6%A6%E0%A7%87%E0%A6%B6_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+http://103.114.11.37:8081/BTV/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,Somoy TV "https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/250px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png"
+http://103.114.11.37:8081/SOMOY-TV/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,PTV "https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png?_=20220108091410"
+http://103.114.11.37:8081/PTV/video.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,4K 1 "https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png"
+http://103.114.11.37:8081/FIFAPLUS/index.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,4K 2 "https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png"
+http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
+
+#EXTINF:-1,4K 3 "https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png"
+http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
+
+
+
