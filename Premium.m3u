@@ -62,6 +62,31 @@ https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/in/TV9Bangla.png" group-title="🇮🇳 India Bangla",TV9 Bangla
 https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9banaen8yq/liveabr/playlist.m3u8
 
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/upsspx1433379567.png",TSN 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1,WC TV EN
+https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/fifa_ppv1/default/index.mpd
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/340/159/png-transparent-bbc-news-1st-option-safety-services-ltd-bbc-hd-bbc-sport-pepsi-logo-miscellaneous-television-text.png",BBC FHD
+https://sonic.stvembed.top/prime/live.php?cid=1c669468342aaed8&segment=EKNGd9AfDBgOLcK33OUin4irkn1stFF7j85dSyu3u0Cyjn6WNyAqp1bzvtQ0w_1ooWG9sPsycBvehKSUPrxfV6jCMdxO-0HxSzJWIwbS4z0~&token=guest__39f2ZbwgAnFXqXblcqR84DLQDawA6EDD8d4h5zQavBFtesV8-KUhiVAcSHvA4rvzVknxD7hCB-KY5Am5hhoFn5xY4uF3f2UAZNHJ_k1D-jDKSZGNQTG7ZKT_cPzxtyy2PUwMwdbCb1j81PHr50mMA_ySJ3uP3zz7DK-b2m-KjrWRITSEvSpgW83FZNIqONSjKZ7oxycI57YOnCAdGKalv83GK6BV6nCmhlv8Dt3C-Mp9gcLLEvyKkoWU99N6SngOLAlT&format=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/ITV_logo_2013.svg/1280px-ITV_logo_2013.svg.png",ITV
+https://cdndash.shsliv.xyz/prime/live.php?cid=1ceb26d561df0d2b&segment=EKNGd9AfDBgOLcK33OUin0fekNW7X17MEUPSSgJe3V4-8yYDMAhQBkQ6_Q3VV-V8GrhTveSoMa8pVZl88Hw5StVwYJRqn_G1aaQ6SsXEVTY~&token=guest__261dGosv2ElgjatE9kxN8ysrotW6--oW3VvSXlP1BT930TFt1i804XLzEicRlCvyCgyfCAwgIgnNmVs8v9k_yKmsESWuHHwqY_fXuWTLBFFQzQedByoRIScJzRQRd81ucZYpOX648h3eSnDuCBAlCjtlKqZHlJlOw-dNXMmOiD9HP5khNq_S7akwcO2k1ZRSP5z0MohhF6RFNDxbg4EsX5OTIKdQ5Y34YUTWN5tUPxsKYEJNqSykDrSR4KDHHvIkvA2S&format=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/Sport_TV1_%282023%29.svg",Sport TV 1
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w8kwdfmlgs/out/v1/3aa321e477504937a439b602e078eb18/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/41/BeIN_Sports_logo_%282017%29.png",beIN Sports
+https://sonic.stvembed.top/live.php?cid=c4385cebb0490699&segment=Qd54Vtp-T3RcOeB3hB57aHO95EyvMZKwgSpGbslAl2C39uyPgn_9mqs2HmuszrM_U4ksmlh8VJPJyXE7Mm9SD_WnAhTARdTldoGnZ7j-M-M~&token=guest__36adgmE-dv-P2i7zzOqVgYJwa1uUnz45L-ihVz2gXjkuqkN7I5zE7RSKIz3aL6nWG86CjjTNksXy4lidxDPYAlsfNGr7NsLJPXD0tgzSDe80mzh73fcJy9rNFGhwx0hht7P_0dgTv4ZOiojc1bD4HS0VkfqYrLjBhl6LmmxeecWjA1o3kqv6LOPwtifNwlt6r0RlI0JUB8Qq3vFRfpMvigOReaEb6n0IlERIG3Vg7Vt011oDRH2n13suvfTPjceSTUxI&format=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Sport_TV5_%282023%29.svg",Sports TV 5
+https://sonic.stvembed.top/live.php?cid=495acc9fa7a884f6&segment=0umwAVyyxl-fld2eejRYyxLF1ewk2IgtygGbOpvv1Xpr5Q1IJedW4_pMrZIGb__s2UdsymBYRAHv06acTZ9wVxfdhqoMl1zNivVzW1ZkIuc~&token=guest__8c25bRn29pUo0fsvmN_30kL5L0Praka8-tNcJuUWbjyr5zDOpsKAwDWH1JQ3x8kOfNCoANvvF5zcjS4CXSoNyjxEEs9UiVI6tWn0wDyfbJ5vkudTiEtUGsM9ihvEUgkgpWcALGPuYN2vZQ_0QgyfAAPr4sQUq_1zDjmEXKeTJCoyTX-8kZg5KFMalWcHVGr9Pp9jk0HTDkAiIaTz_uVg0k4_dnabo8nMYJhMukHnK8k_aQysTWGk9hW4J_FylLzAJXOc&format=.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b6/Sport_TV5_%282023%29.svg",Sports TV 5 Backup
+https://sonic.stvembed.top/live.php?cid=495acc9fa7a884f6&segment=0umwAVyyxl-fld2eejRYy7Vb1M-2fDTmCaQg0AxWnyS02CY7s_oSoF4sntU9m6OYvRIE5K1VuiZEHQLXJhSTSQf8wBrqsp9yxgNOdyE4E64~&token=guest__4250bRn29pUo0fsvmN_30kL5L0Praka8-tNcJuUWbjyr5zDOpsKAwDWH1JQ3x8kOfNCoANvvF5zcjS4CXSoNyjxEEs9UiVI6tWn0wDyfbJ5vkudTiEtUGsM9ihvEUgkgpWcALGPuYN2vZQ_0QgyfAAPr4sQUq_1zDjmEXKeTJCoyTX-8kZg5KFMalWcHVGr9Pp9jk0HTDkAiIaTz_uVg0k4_dnabo8nMYJhMukHnK8k_aQwTaQaF_r6qodhKKV530L_y&format=.ts
 ===== 🌍 INTERNATIONAL NEWS =====
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/intl/AlJazeera.png" group-title="🌍 News",Al Jazeera
