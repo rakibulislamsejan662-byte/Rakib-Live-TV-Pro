@@ -126,7 +126,6 @@ https://s3.ideationtec.live/Cartoon_Network/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/iptv-org/logos/master/us/RedBullTV.png" group-title="🌐 Extra",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 
-#EXTM3U
 
 #EXTINF:-1,T Sports 1080p "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/250px-T_Sports_logo.svg.png"
 http://103.114.11.37:8081/T-Sports-HD/video.m3u8?token=bJPpluZ30rPLH3
@@ -158,6 +157,260 @@ http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
 #EXTINF:-1,4K 3 "https://png.pngtree.com/png-vector/20220523/ourmid/pngtree-4k-hd-button-png-image-png-image_4711111.png"
 http://103.114.11.37:8081/FIFA4k-2/index.m3u8?token=bJPpluZ30rPLH3
 
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/PORTUGANEW/SPORTTV5.png" group-title="WORLD CUP 2026",PT| SPORT TV 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2097373&extension=ts&play_token=0rSIKQkTqF
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/9915.png" group-title="WORLD CUP 2026",AFG| ATN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077072&extension=ts&play_token=A9Z7Wd9OeB
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/116108.png" group-title="WORLD CUP 2026",ALB| TV KLAN HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077071&extension=ts&play_token=jjwYbRvce3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/ARABICNEW/ENTVALGERIA.png" group-title="WORLD CUP 2026",AR| EN TV ALGERIA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077070&extension=ts&play_token=62nP3Cuwdi
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25307.png" group-title="WORLD CUP 2026",ARG| TELEFE HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077069&extension=ts&play_token=YgvI68J87H
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1354639.png" group-title="WORLD CUP 2026",ARG| TV PUBLICA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077068&extension=ts&play_token=OXgWm11HaL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TYC.png" group-title="WORLD CUP 2026",ARG| TYC SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077067&extension=ts&play_token=r8wa0B5WAB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SBS-VICELAND-PERTH.jpeg" group-title="WORLD CUP 2026",AU| SBS VICELAND MELBOURNE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077066&extension=ts&play_token=MXuIptV2d0
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/127402.png" group-title="WORLD CUP 2026",AUS| ORF 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077065&extension=ts&play_token=qjaRgGrAjC
+#EXTINF:-1 tvg-logo="http://103.176.90.92/images/1004574.png" group-title="WORLD CUP 2026",AUS| SERVUS TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077064&extension=ts&play_token=cecddLWZ5K
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1588629.png" group-title="WORLD CUP 2026",BY| BELARUS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077063&extension=ts&play_token=hEqV1HWHZ4
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1796659.png" group-title="WORLD CUP 2026",BE| VRT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077062&extension=ts&play_token=jcbdzIO1RI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/TIGO-SPORTS.png" group-title="WORLD CUP 2026",LAT| TIGO SPORTS 1 BO  HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077061&extension=ts&play_token=NVmsWaFsse
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENA-SPORT-PREMIUM-1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 1 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077060&extension=ts&play_token=R6E9WaEa2b
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 2 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077059&extension=ts&play_token=y0lf4vrQA7
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/EUROPE/ARENASPORTPREMIUM3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT PREMIUM 3 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077058&extension=ts&play_token=4CFicMByVh
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport1.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 1 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077057&extension=ts&play_token=PzaQTPZ6Cv
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport2.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 2 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077056&extension=ts&play_token=hJ79sykLX3
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport3.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 3 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077055&extension=ts&play_token=FDdRW82VUn
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport4.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 4 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077054&extension=ts&play_token=XNvAGCXmsm
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport5.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 5 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077053&extension=ts&play_token=kUREvbSLhg
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/arenasport6.png" group-title="WORLD CUP 2026",BA| ARENA SPORT 6 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077052&extension=ts&play_token=GiUKUX2svn
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154779.png" group-title="WORLD CUP 2026",BG| BNT 1 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077051&extension=ts&play_token=CzcRCJpa3g
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/logos/154782.png" group-title="WORLD CUP 2026",BG| BNT 3 FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077050&extension=ts&play_token=LsgCEb3sVy
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177344.png" group-title="WORLD CUP 2026",CA| TSN 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077049&extension=ts&play_token=aFykM77fLw
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177345.png" group-title="WORLD CUP 2026",CA| TSN 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077048&extension=ts&play_token=d54aDqPaB3
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177346.png" group-title="WORLD CUP 2026",CA| TSN 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077047&extension=ts&play_token=HTry8qM6lb
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177347.png" group-title="WORLD CUP 2026",CA| TSN 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077046&extension=ts&play_token=pSHG5X2mQl
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177348.png" group-title="WORLD CUP 2026",CA| TSN 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077045&extension=ts&play_token=guVplrpYGQ
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/CANADA/177302.png" group-title="WORLD CUP 2026",CA| RDS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077044&extension=ts&play_token=BYE0xAew4P
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25334.png" group-title="WORLD CUP 2026",CHL| CHILEVISION
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077043&extension=ts&play_token=6Fi4AJoG6w
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/caracol.png" group-title="WORLD CUP 2026",CO| CARACOL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077042&extension=ts&play_token=4BPqsV2sH2
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25344.png" group-title="WORLD CUP 2026",CO| RCN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077041&extension=ts&play_token=O8tvJbph0T
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/25338.png" group-title="WORLD CUP 2026",CO| WIN SPORTS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077040&extension=ts&play_token=ewKB6q2G8b
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/145416.png" group-title="WORLD CUP 2026",CO| WIN SPORTS PLUS HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077039&extension=ts&play_token=AeXl85TKnE
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/947649.png" group-title="WORLD CUP 2026",CO| WINSPORTS 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077038&extension=ts&play_token=4TOlYjFTbk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png" group-title="WORLD CUP 2026",CO| WINSPOETS 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077037&extension=ts&play_token=8NNAIMkgk4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/LATINO/WINSPOETS.png" group-title="WORLD CUP 2026",CO| WINSPOETS 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077036&extension=ts&play_token=okE96yoJ6Q
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1351823.png" group-title="WORLD CUP 2026",CR| TELETICA 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077035&extension=ts&play_token=MM3IE10jgu
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/hrt1.png" group-title="WORLD CUP 2026",HR| HRT 1 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077034&extension=ts&play_token=9XYlu0y2pB
+#EXTINF:-1 tvg-logo="https://picons.cmshulk.com/picons/hrt2.png" group-title="WORLD CUP 2026",HR| HRT 2 ⱽᴵᴾ ᴿᴬᵂ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077033&extension=ts&play_token=PAsf0bKPJl
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/1432130.png" group-title="WORLD CUP 2026",CY| SiGMA CYPRUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077032&extension=ts&play_token=rljCBNZofJ
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/98275.png" group-title="WORLD CUP 2026",CZ| CT 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077031&extension=ts&play_token=JO7LbPvM7B
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/444268.png" group-title="WORLD CUP 2026",FIN| YLE TV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077030&extension=ts&play_token=LJ7vFLpeox
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/FRANCENEW/M6.png" group-title="WORLD CUP 2026",FR| M6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077029&extension=ts&play_token=JJgFd9Onti
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ARD.png" group-title="WORLD CUP 2026",DE| ARD HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077028&extension=ts&play_token=e2Rw2ZHrC9
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/GERMANY/ZDF.png" group-title="WORLD CUP 2026",DE| ZDF HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077027&extension=ts&play_token=btOV9zC426
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/30521.png" group-title="WORLD CUP 2026",IR| RTE TWO HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077026&extension=ts&play_token=vdwEckkSO8
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/692602.png" group-title="WORLD CUP 2026",IT| RAI 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077025&extension=ts&play_token=sqzPBCTYAC
+#EXTINF:-1 tvg-logo="http://103.176.90.95/images/816650.png" group-title="WORLD CUP 2026",LUX| RTL HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=GMT
+http://cdn98.com:80/play/live.php?mac=00%3A1A%3A79%3A99%3A54%3A11&stream=2077024&extension=ts&play_token=vS0xrMemox
+#EXTINF:-1 tvg-logo="http://picons.cmshulk.com/picons/1546792.png" group-title="WORLD CUP 2026",MXC| AZTECA DEPORTES
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+#EXTVLCOPT:http-referrer=http://cdn98.com:80/c/c/
+#EXTVLCOPT:http-cookie=mac=00:1A:79:99:54:11; stb_lang=en; timezone=
 #EXTINF:-1,Football World Cup 2026
 http://180.94.28.28:8097//BTV/index.fmp4.m3u8
 #EXTINF:-1,Football World Cup 2026
